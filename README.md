@@ -1,0 +1,2 @@
+# events-search
+FullStack project
